@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Sujal Chawla
 
-<!--
-**Sujal789-hash/Sujal789-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI/ML Enthusiast
+
+☕ Java Programmer
+
+🚀 Currently learning System Design and Advanced AI
+
+## Tech Stack
+
+Java • Python • JavaScript • HTML • CSS • React • Node.js • MongoDB • Git
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/sujal-chawla-58a964338/
+
+Portfolio:
+
+Email: sujalchwl@email.com
