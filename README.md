@@ -51,12 +51,6 @@ Full Stack Web Developer | MERN Stack Developer | AI/ML Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujal789-hash&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
 ---
 
 ## 🌟 Featured Projects
