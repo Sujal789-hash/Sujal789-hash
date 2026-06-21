@@ -51,8 +51,6 @@ Full Stack Web Developer | MERN Stack Developer | AI/ML Enthusiast
 
 ---
 
----
-
 ## 🌟 Featured Projects
 
 ### 🌿 Carbon Footprint Calculator
