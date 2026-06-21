@@ -109,9 +109,10 @@ Personal portfolio showcasing skills, projects and achievements.
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sujal-chawla-58a964338/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/sujal-chawla-58a964338/">
+<img src="https://img.shields.io/badge/LinkedIn-Sujal%20Chawla-blue?style=for-the-badge&logo=linkedin" />
 </a>
+</p>
 
 <a href="mailto:sujalchwl@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
